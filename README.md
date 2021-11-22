@@ -2,9 +2,14 @@
 <p> Welcome to my Github Profile &#x1F61B<p>
 <h2> I'm Luis Leon </h2>
       
-I am interested in:
+### I'm interested in:
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/55px-Unofficial_JavaScript_logo_2.svg.png">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/80px-React-icon.svg.png">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/320px-Node.js_logo.svg.png" width="60px" height="60px"> 
+      <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+      <img alt="Typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"/>
+      <img alt="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/>
+      <img alt="ReactJS" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/> 
+      <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
+      <img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" width="40" height="40"/>
+      <img alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="40" height="40"/>
+      <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
 </div>
