@@ -1,5 +1,5 @@
 <h1> Hi! :v:</h1>
-<p> Welcome to my Github Profile &#x1F61B<p>
+<p> Welcome to my Github Profile<p>
 <h2> I'm Luis Leon </h2>
       
 ### Tools:
