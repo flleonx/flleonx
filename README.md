@@ -1,15 +1,11 @@
-<h1> Hi! :v:</h1>
-<p> Welcome to my Github Profile<p>
-<h2> I'm Luis Leon </h2>
-      
-### Tools:
-<div align="center">
-      <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-      <img alt="Typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"/>
-      <img alt="NodeJS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/>
-      <img alt="ReactJS" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/> 
-      <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
-      <img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" width="50" height="50"/>
-      <img alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="50" height="50"/>
-      <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
-</div>
+<h2 align="center" style="color:#70a5cc; font-weight:600">LUIS LEON</h2>
+
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript%20-323330?&style=for-the-badge&logo=Javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript%20-323330?&style=for-the-badge&logo=TypeScript&logoColor=%233178C6" />
+  <img src="https://img.shields.io/badge/Node.js%20-323330?&style=for-the-badge&logo=Node.js&logoColor=%23339933" />
+  <img src="https://img.shields.io/badge/Git%20-323330?&style=for-the-badge&logo=Git&logoColor=%23F05032" />
+  <img src="https://img.shields.io/badge/PostgreSQL%20-323330?&style=for-the-badge&logo=PostgreSQL&logoColor=%234169E1" />
+  <img src="https://img.shields.io/badge/Docker%20-323330?&style=for-the-badge&logo=Docker&logoColor=%232496ED" />
+</p>
